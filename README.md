@@ -13,7 +13,7 @@
 
 - 🌱 Currently exploring the wonders of **MERN Stack**
 
-- 📫 Reach me at **areebahmed605@gmail.com**
+- 📫 Reach me at **areebahmedwork@gmail.com**
 
 <h3 align="left">🌟 Connect with me:</h3>
 <p align="left">
